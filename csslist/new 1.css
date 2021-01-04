@@ -1,0 +1,14 @@
+.hb{
+	color:#4484B2;
+	border:2px solid orange;
+	}
+	
+.first{
+	background:linear-gradient(#ffa500d1,#0000ff8c),url(../image/sabbir.jpg);
+	height:1150px;
+	}
+	
+.first h1{
+	color:black;
+	font-family:arial black;
+}
